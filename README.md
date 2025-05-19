@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning with new things **Like DevOps AI and ML**
 
-- 👯 I’m looking to collaborate on **Humana**
+- 👯I have completed the Project of [Bynry - Smart Water, electricity & Gas Utility software Company](github.com/Pra01BugFinder/Gas-Utility-Customer-Service-Portal-)
 
 - 🤝 Hackerearth rank and Marks **1st (180/200)**
 
@@ -34,4 +34,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pra01bugfinder&show_icons=true&locale=en" alt="pra01bugfinder" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pra01bugfinder&" alt="pra01bugfinder" /></p>
-￼Enter
